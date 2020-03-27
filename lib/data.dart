@@ -2,7 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
 
-final String apiUrl = "http://hansikdang.startsomething.us/this-week";
+final String apiUrl = "http://hansikdang.startsomething.us/this-week/";
 List<Menu> handleBody(http.Response response) {
   if (response.statusCode == 200) {
     final data = json.decode(response.body);
