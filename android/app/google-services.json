@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1010392160231",
+    "firebase_url": "https://hansikdang-daadc.firebaseio.com",
+    "project_id": "hansikdang-daadc",
+    "storage_bucket": "hansikdang-daadc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1010392160231:android:e377413bf204015445cf42",
+        "android_client_info": {
+          "package_name": "com.hannam.menu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1010392160231-fm5pvm0rg1g8ri1ecthp8kkf8ocf1fgf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5SefAX1egGFUm2bxeKgJlM-gcg8LKglw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1010392160231-fm5pvm0rg1g8ri1ecthp8kkf8ocf1fgf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1010392160231-r5v3r8q41m5ubk05rbu2g05isr2o659l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hannam.menu"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
